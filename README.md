@@ -5,7 +5,7 @@ A Twin-tube Hydraulic Damper with organic oil as the compressible fluid.
 The fluid flow is modeled in 1D compressible flow, including the isothermal bulk modulus of the fluid.
 
 The compressed fluid flow from one chamber to the other through orifice and valve port flows.
-The spring valves are preloaded to give a certain resistance.
+The spring valves are preloaded at an initial displacement to give a certain resistance.
 
 
 $$
